@@ -9,7 +9,7 @@
 
 <p style="color:#64748B;">
   <b>Pucallpa, Ucayali, Perú</b> | 
-  <a href="mailto:alev9770@gmail.com" style="color:#2563EB;">alev9770@gmail.com</a> | 
+  <a href="https://mail.google.com/mail/?view=cm&to=alev9770@gmail.com" target="_blank" style="color:#2563EB;">alev9770@gmail.com</a> | 
   <a href="https://github.com/OmarVLobo" style="color:#0F172A;">github.com/OmarVLobo</a>
 </p>
 
