@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER SUPERIOR AZUL / NEGRO -->
-<img src="https://via.placeholder.com/1200x250/0F172A/FFFFFF?text=+" style="display:none"/>
+  <img src="banner.png" alt="Banner Omar Vela Lobo" width="100%" />
 <h1 style="color:#0F172A; border-bottom: 4px solid #2563EB; padding-bottom:10px;">
   OMAR VELA LOBO
 </h1>
