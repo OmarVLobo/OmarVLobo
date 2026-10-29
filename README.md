@@ -63,7 +63,7 @@ Ingeniero de Sistemas e Informática con **más de 10 años de experiencia** en 
 <div style="border: 1px solid #CBD5E1; border-radius:8px; padding:14px; background:#FFFFFF;">
 
 **[MicroApp Logística Ventas – Python + Docker + GitHub](https://github.com/OmarVLobo/MicroAppLogisticaVentas)**
-`Python 3.11 | Docker 211MB | GitHub Flow`
+`Python 3.12.3 | Docker 211MB | GitHub Flow`
 
 - MicroApp modular (Main / Clases / Funciones) con menú y submenús para gestión de almacén.
 - Validaciones con try/except, reportes auditables y persistencia en Data/.
