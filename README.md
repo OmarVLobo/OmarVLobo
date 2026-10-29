@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3.11-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3.12.3-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-Ready-0F172A?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-Expert-475569?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ingl%C3%A9s-B2-2563EB?style=for-the-badge"/>
