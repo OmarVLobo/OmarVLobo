@@ -11,6 +11,7 @@
   <b>Pucallpa, Ucayali, Perú</b> | 
   <a href="https://mail.google.com/mail/?view=cm&to=alev9770@gmail.com" target="_blank" style="color:#2563EB;">alev9770@gmail.com</a> | 
   <a href="https://github.com/OmarVLobo" style="color:#0F172A;">github.com/OmarVLobo</a>
+  | <a href="https://www.linkedin.com/in/omarvlobo/" target="_blank" style="color:#2563EB; font-weight:bold;">linkedin.com/in/omarvlobo</a>
 </p>
 
 <p>
